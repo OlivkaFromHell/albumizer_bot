@@ -1,0 +1,7 @@
+.env
+data/images/photo.jpg
+data/images/cover.jpg
+data/images/label.jpg
+venv/
+.idea/
+__pycache__/
